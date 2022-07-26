@@ -1,3 +1,3 @@
-#demo1
-#test1
-#test2
+print('123')
+a = input()
+print(a)
